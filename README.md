@@ -18,7 +18,7 @@
 
 > 爬虫模块在实际项目中仅每个月使用一次，如有侵权请联系我删除！
 
-附：
+## 四、演示
 
 * 采集过程显示进度
 
@@ -27,3 +27,9 @@
 * json格式
 
 ![image-20231004155359822](README/image-20231004155359822.png)
+
+## 五、其他
+
+- 源码：https://github.com/root6819/usgApiWithGo
+- 官网： [http://www.qipanet.com](http://www.qipanet.com/)
+- 微信 root6819 | QQ 302777528
