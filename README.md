@@ -31,5 +31,4 @@
 ## 五、其他
 
 - 源码：https://github.com/root6819/usgApiWithGo
-- 官网： [http://www.qipanet.com](http://www.qipanet.com/)
-- 微信 root6819 | QQ 302777528
+- 微信 root6819 
